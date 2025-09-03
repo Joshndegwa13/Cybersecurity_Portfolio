@@ -19,3 +19,7 @@ Each lab contains:
 
 ## Labs Completed
 - (Labs will be added here as I progress)
+
+## Certificates
+![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-CC-blue?style=for-the-badge&logo=isc2&logoColor=white)
+
