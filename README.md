@@ -18,7 +18,9 @@ Each lab contains:
 - Observations and key learnings  
 
 ## Labs Completed
-- (Labs will be added here as I progress)
+
+### PreSecurity
+- [Identifying Devices on a Network](PreSecurity/Network_Fundamentals/Identifying_Devices_on_a_Network/notes.md)
 
 ## Certificates
 ![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-CC-blue?style=for-the-badge&logo=isc2&logoColor=white)
