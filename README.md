@@ -23,3 +23,19 @@ Each lab contains:
 ## Certificates
 ![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-CC-blue?style=for-the-badge&logo=isc2&logoColor=white)
 
+## Tools & Tech Stack
+
+### Platforms & Operating Systems
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-FF6C37?style=for-the-badge&logo=tryhackme&logoColor=white)
+![eLearnSecurity](https://img.shields.io/badge/-eLearnSecurity-FF5733?style=for-the-badge&logo=elearnsecurity&logoColor=white)
+
+### Security & Networking Tools
+
+### Version Control & Collaboration
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
